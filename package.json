@@ -1,0 +1,11 @@
+{
+  "name": "preparena",
+  "version": "1.0.0",
+  "description": "Mock test exam prepration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kunal Raj",
+  "license": "ISC"
+}
